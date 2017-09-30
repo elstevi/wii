@@ -5,3 +5,6 @@
 
 ## Git
 * [Auto deploy](git/auto_deploy.md)
+
+## SSH
+* [Advanced ssh proxy configuration](ops/ssh_proxy.md)
